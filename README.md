@@ -22,7 +22,7 @@ This repository serves as a platform for exploring and implementing AI and ML co
   - Building and evaluating regression models.
   - Fine-tuning models for improved predictions.
 
-[Link to Bluebook Bulldozer Price Regression Project Folder](bluebook-bulldozer-price-regression/)
+[Link to Bluebook Bulldozer Price Regression Project Folder]([bluebook-bulldozer-price-regression/](https://github.com/tejasharal33/AI_ML_Projects/tree/main/BUlldozer_price))
 
 ### Project 2: Heart Disease Classification
 
