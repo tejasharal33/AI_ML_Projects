@@ -12,6 +12,9 @@ This repository contains various projects related to Artificial Intelligence (AI
 
 This repository serves as a platform for exploring and implementing AI and ML concepts. The projects cover diverse topics, including regression, classification, natural language processing, computer vision, and more. The goal is to provide a learning environment where enthusiasts can gain practical experience, understand key algorithms, and develop skills applicable to real-world scenarios.
 
+Get the necessary data from below link
+https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/data
+
 ## Projects
 
 ### Project 1: Bluebook Bulldozer Price Regression
